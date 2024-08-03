@@ -1,3 +1,6 @@
+# Hello!!
+I'm Samuel. This is just a learning material so use with caution
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
