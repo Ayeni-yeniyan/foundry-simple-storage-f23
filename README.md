@@ -1,5 +1,5 @@
 # Hello!!
-I'm Samuel. This is just a learning material so use with caution
+I'm Samuel. This is just a learning material so use with caution.
 
 ## Foundry
 
